@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866804551311",
+    "project_id": "fir-app-quan-ly-chi-tieu",
+    "storage_bucket": "fir-app-quan-ly-chi-tieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866804551311:android:103e0073b0a355a8dd6afa",
+        "android_client_info": {
+          "package_name": "ntu.edu.vn.tuankiet.app_quan_ly_chi_tieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBrfK8sY6rrhZFOjy0JsOAzYEnCtj7x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
